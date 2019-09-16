@@ -1,0 +1,27 @@
+{
+	"name": "focus-manager",
+	"version": "1.0.0",
+	"description": "A Manager For Focus",
+	"keywords": [
+		"focus"
+	],
+	"company": "",
+	"copyright": "",
+	"main": "./index.js",
+	"styles": [],
+	"author": "AST",
+	"files": [
+		"README.md",
+		"index.js",
+		"package.json",
+		"lib/**"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"focus-manager-common": "^1.0.0",
+		"vue": "^2.6.10"
+	},
+	"devDependencies": {},
+	"typings": "index.d.ts",
+	"modules": {}
+}
